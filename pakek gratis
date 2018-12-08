@@ -1,6 +1,6 @@
 paste kode di bawah ini di tata letak -> tambahkan gadget -> HTML/JavaScript jangan kasih nama!!!
 
-<script type="text/javascript" src="https://rawgit.com/reidhoseki/safelinkke2/master/safelinkke2.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/reidhoseki/safelinkke2/safelinkke2.js"></script>
 <script type="text/javascript">
 protected_links = "www.wibubatch.cf,http://insoftbu-offical.blogspot.com"; // Unprotect Domain
 auto_safelink();
